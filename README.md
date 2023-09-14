@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Tomar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding width="400" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?w=236&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamcse&label=Profile%20views&color=0e75b6&style=flat" alt="satyamcse" /> </p>
 
