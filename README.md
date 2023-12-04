@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Tomar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 >Hello! I am a  graduate 2023 with a strong foundation in programming languages such as C, C++, and expertise in Data Structures and Algorithms (DSA). Eager to contribute my skills and knowledge to dynamic, collaborative teams in the tech industry.These foundational skills have allowed me to develop a strong understanding of programming principles and problem-solving techniques. I have actively engaged in various coding competitions, honing my skills and expanding my knowledge in the process.</h3>
 <img align="right" alt="Coding width="400" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?w=236&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamcse&label=Profile%20views&color=0e75b6&style=flat" alt="satyamcse" /> </p>
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **satyamtomar.cse@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I Love Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
